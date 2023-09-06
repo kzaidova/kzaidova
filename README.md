@@ -9,8 +9,13 @@
    </tr>
   </table>
 
-
-
+</br> Стэк:
+</br> ![This is an image](/icons/Python.png) Python
+</br> ![This is an image](/icons/Pytest.png) Pytest
+</br> ![This is an image](/icons/Selenium.png) Selenium
+</br> ![This is an image](/icons/Jenkins.png) Jenkins
+</br> ![This is an image](/icons/Allure_Report.png) Allure Report
+</br> ![This is an image](/icons/AllureTestOps.png) Allure TestOps
 
 
 
