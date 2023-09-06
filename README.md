@@ -12,5 +12,5 @@
   </table>
 
 
-:pushpin:t.me/k_zaidova
-:pushpin:kk.zaidova@gmail.com
+</br>:pushpin:t.me/k_zaidova
+</br>:pushpin:kk.zaidova@gmail.com
