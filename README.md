@@ -1,7 +1,6 @@
-### Добро пожаловать!
-</br> Привет :wave: 
+###</br> Привет :wave: 
 
-</br>Меня зовут Канохат и в тестировании я  более двух лет. Удалось поработать с разными видами тестирования от функционального до нагрузочного. Сейчас изучаю автоматизированное тестирование на Python. </br>
+</br>Меня зовут Канохат и в тестировании я  более двух лет. Удалось поработать с разными видами тестирования от функционального до нагрузочного. Сейчас изучаю автоматизированное тестирование на Python.
 
 
 <table width="100%" border='0'>
@@ -10,6 +9,13 @@
     <tr><td width="30%" valign="bottom"><img src="/images/YP.png"></td><td valign="middle">Яндекс Практикум.</br> Тестирование веб приложений на Python. </br> <a target="_blank" href="https://drive.google.com/drive/folders/1ZsDH2htg-KnpMKEw13LCyubebbB0Sxga?usp=sharing">Диплом</a> </td>
    </tr>
   </table>
+
+
+
+
+
+
+
 
 
 </br>:pushpin: <a target="_blank" href="https://t.me/k_zaidova">t.me/k_zaidova</a>
