@@ -5,6 +5,6 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/MTUCI.png"></td><td valign="middle">Московский Технический Университет Связи и Информатики. </br> Факультет Информационные системы и технологии. </br></td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/YP.png"></td><td valign="middle">Яндекс Правктикум.</br> Тестирование веб приложений на Python. </td>
+    <tr><td width="30%" valign="bottom"><img src="/images/YP.png"></td><td valign="middle">Яндекс Практикум.</br> Тестирование веб приложений на Python. </td>
    </tr>
   </table>
